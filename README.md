@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="inserir link da página aqui" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabriel-adsv.github.io/stage05-biscoito-da-sorte/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
 <strong>Projeto desenvolvido como o primeiro desafio do nível 5 das aulas da trilha Explorer da Rocketseat.</strong><br>
-Neste primeiro desafio, foram aplicados os conhecimentos de DOM no JavaScript para desenvolver uma aplicação de frases aleatórias. E também foram aplicado alguns conceitos de callback, eventos e node.
+Neste primeiro desafio, foram aplicados os conhecimentos de DOM no JavaScript para desenvolver uma aplicação de frases aleatórias. Também foram aplicados alguns conceitos de callback, eventos e node.
 </p>
 <br>
 
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Atividade feita no desafio proposto no curso Explorer da Rocketseat. 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/estiloux-frontend/)
+- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage05-biscoito-da-sorte/)
 
 ## 📧 Contato
 - gabriel.dms@gmail.com
@@ -43,4 +43,4 @@ Atividade feita no desafio proposto no curso Explorer da Rocketseat.
 Esse projeto está sob a licença MIT.
 
 ---
-Realizado por Gabriel Augusto
+Desenvolvido por Gabriel Augusto
