@@ -1,11 +1,6 @@
 <h1 align="center"> Stage 05 - Biscoito da Sorte</h1>
 
 <p align="center">
-# Projeto desenvolvido como o primeiro desafio do nível 5 das aulas da trilha Explorer da Rocketseat.<br>
-- Neste primeiro desafio, foram aplicados os conhecimentos de DOM no JavaScript para desenvolver uma aplicação de frases aleatórias. E também foram aplicado alguns conceitos de callback, eventos e node.
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="inserir link da página aqui" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,6 +11,10 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+<p>
+# Projeto desenvolvido como o primeiro desafio do nível 5 das aulas da trilha Explorer da Rocketseat.<br>
+# Neste primeiro desafio, foram aplicados os conhecimentos de DOM no JavaScript para desenvolver uma aplicação de frases aleatórias. E também foram aplicado alguns conceitos de callback, eventos e node.
+</p>
 <br>
 
 <p align="center">
