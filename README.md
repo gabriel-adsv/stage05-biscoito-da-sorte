@@ -1,7 +1,7 @@
 <h1 align="center"> Stage 05 - Biscoito da Sorte</h1>
 
 <p align="center">
-- Projeto desenvolvido como o primeiro desafio do nível 5 das aulas da trilha Explorer da Rocketseat.
+# Projeto desenvolvido como o primeiro desafio do nível 5 das aulas da trilha Explorer da Rocketseat.
 - Neste primeiro desafio, foram aplicados os conhecimentos de DOM no JavaScript para desenvolver uma aplicação de frases aleatórias. E também foram aplicado alguns conceitos de callback, eventos e node.
 </p>
 
