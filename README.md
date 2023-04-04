@@ -37,7 +37,7 @@ Atividade feita no desafio proposto no curso Explorer da Rocketseat.
 - [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage05-biscoito-da-sorte/)
 
 ## 📧 Contato
-- gabriel.dms@gmail.com
+- gabriel.aug.dsv@gmail.com
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT.
